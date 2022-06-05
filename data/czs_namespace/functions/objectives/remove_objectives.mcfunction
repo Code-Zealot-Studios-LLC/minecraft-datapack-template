@@ -1,0 +1,1 @@
+#Remove all required scoreboard objectives here

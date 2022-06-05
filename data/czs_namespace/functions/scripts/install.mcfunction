@@ -1,0 +1,1 @@
+function czs_namespace:objectives/add_objectives

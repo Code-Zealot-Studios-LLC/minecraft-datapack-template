@@ -1,0 +1,1 @@
+tellraw @a [{"text":"Datapack by Code Zealot Studios LLC is running!","color":"yellow"}]
